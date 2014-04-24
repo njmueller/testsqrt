@@ -1,3 +1,6 @@
+"""
+Module for approximating the square root
+"""
 
 def sqrt2(x):
 	s = 1.
